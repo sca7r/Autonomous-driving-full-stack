@@ -1,4 +1,4 @@
-# Work in Autonomous Driving
+# Autonomous Driving and Parking Technology
 
 > A curated collection of modules and components developed as part of the **ADAPT** system, an infrastructure-based, end-to-end autonomous parking solution built at Hochschule Coburg (HS Coburg).
 
